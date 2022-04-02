@@ -11,7 +11,7 @@ html{
 }
 
 body{
-    background: linear-gradient(190deg, #000000 0%, #000000 100%);
+    background: linear-gradient(190deg, #00ecff 0%, #000000 100%);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
